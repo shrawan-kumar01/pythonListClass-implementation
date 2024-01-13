@@ -1,4 +1,4 @@
-#  build a class which behaves as it is oythin list function behave . 
+#  build a class which behaves as it is pythin list function behave . 
 # also implement functions 
 # use c - array 
 
